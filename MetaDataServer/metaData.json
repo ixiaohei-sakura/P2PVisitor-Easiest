@@ -1,0 +1,13 @@
+{
+  "example": {
+    "sa": "127.0.0.1",
+    "sp": "7000",
+    "sup": "7001",
+    "name": "p2p_mc_visitor",
+    "token": "123456",
+    "type": "xtcp",
+    "role": "visitor",
+    "sn": "p2p_mc",
+    "sk": "modabcd123"
+   }
+}
